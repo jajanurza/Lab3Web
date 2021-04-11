@@ -11,12 +11,14 @@ Kemudian tambahkan kode untuk membuat Ordered List seperti berikut:
  
 Membuat Unorderd List 
 Kemudian tambakan kode untuk membuat Unordered List, setelah deklarasi ordered list pada section unordered-list, seperti berikut.
+
  ![image](https://user-images.githubusercontent.com/81528179/114306613-821d4f00-9b06-11eb-8026-b38fb8b463ae.png)
 ![image](https://user-images.githubusercontent.com/81528179/114306625-8ba6b700-9b06-11eb-86c0-00cd32005e34.png)
 
  
 Membuat Description List 
 Kemudian tambahkan kode untuk membuat description list setelah deklarasi unorderd-list.
+
  ![image](https://user-images.githubusercontent.com/81528179/114306639-96614c00-9b06-11eb-8436-0ed6fd2e4ba6.png)
 ![image](https://user-images.githubusercontent.com/81528179/114306656-a4af6800-9b06-11eb-9d13-c4e416c2c53e.png)
 
