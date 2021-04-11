@@ -1,3 +1,12 @@
+tampilan form dropdowm
+
+![image](https://user-images.githubusercontent.com/81528179/114307907-0920f600-9b0c-11eb-9ee2-524a7ad6794a.png)
+
+tampilan listbox
+
+![image](https://user-images.githubusercontent.com/81528179/114307951-3e2d4880-9b0c-11eb-984b-a6af7d95800e.png)
+
+
 Persiapan membuat dokumen HTML dengan nama file lab3_list.html  dan masukan kodingan seperti berikut:
 
  ![image](https://user-images.githubusercontent.com/81528179/114306557-55693780-9b06-11eb-9b2d-276833a72f8b.png)
