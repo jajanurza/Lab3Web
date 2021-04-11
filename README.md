@@ -1,10 +1,8 @@
 Persiapan membuat dokumen HTML dengan nama file lab3_list.html  dan masukan kodingan seperti berikut:
+
+ ![image](https://user-images.githubusercontent.com/81528179/114306557-55693780-9b06-11eb-9b2d-276833a72f8b.png)
  
 Membuat Ordered List 
-
-
-![image](https://user-images.githubusercontent.com/81528179/114306557-55693780-9b06-11eb-9b2d-276833a72f8b.png)
-
 Kemudian tambahkan kode untuk membuat Ordered List seperti berikut:
 
  ![image](https://user-images.githubusercontent.com/81528179/114306585-64e88080-9b06-11eb-83e3-1073a5d18fbc.png)
